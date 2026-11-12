@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/Context/">
+    <File Path="ai-interaction.md" />
+    <File Path="coding-standards.md" />
+    <File Path="current-feature.md" />
+    <File Path="project-overview.md" />
+  </Folder>
+  <Folder Name="/Context/Features/" />
+  <Folder Name="/Context/Fixes/" />
+  <Folder Name="/Context/Research/" />
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Library.Api.Tests.Unit/Library.Api.Tests.Unit.csproj" Id="cd0f6fa1-4e7c-43d9-830b-15a54b1bb7c4" />
+  <Project Path="Library.Api/Library.Api.csproj" />
+  <Project Path="Library.Application/Library.Application.csproj" Id="955d5b74-f28d-4f61-ac59-c5f1e11bbc4c" />
+  <Project Path="Library.Domain/Library.Domain.csproj" Id="b490de5f-544e-462f-b27b-dfe29a72c409" />
+  <Project Path="Library.Infrastructure/Library.Infrastructure.csproj" Id="a5d330de-5899-476e-a69d-46d6aeb02ba8" />
+</Solution>

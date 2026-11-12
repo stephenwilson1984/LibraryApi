@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstractions\Behaviours\" />
+    <Folder Include="Abstractions\Clock\" />
+    <Folder Include="Abstractions\Data\" />
+    <Folder Include="Abstractions\Email\" />
+    <Folder Include="Abstractions\Messaging\" />
+    <Folder Include="Abstractions\Users\" />
+    <Folder Include="Books\CreateBook\" />
+    <Folder Include="Books\GetBookById\" />
+    <Folder Include="Books\GetBooksByCategory\" />
+    <Folder Include="Books\GetBookByIsbn\" />
+    <Folder Include="Books\DeleteBook\" />
+    <Folder Include="Books\UpdateBook\" />
+    <Folder Include="Loans\" />
+    <Folder Include="Users\" />
+  </ItemGroup>
+
+</Project>
